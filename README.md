@@ -29,9 +29,8 @@ Our World in Data: https://ourworldindata.org/coronavirus
   ## SQL Server Exploration:
 
 1. Filtering and Ordering Data:
-~
+~~~
 - select location, date, population,total_cases, new_cases, total_deaths from covidDeaths1 order by 1,2;
-~
-
+~~~
   
 
