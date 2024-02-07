@@ -112,7 +112,7 @@ Visualizations and Insights:
 
 - By combining the power of SQL Server exploration with the visual storytelling capabilities of Tableau, this project offers a comprehensive and interactive understanding of the COVID-19 pandemic's global impact and regional variations. The insights gleaned from this analysis can inform public health strategies and resource allocation, ultimately aiding in mitigating the pandemic's effects.
 
-## Dashboard [data](.image/image1.png)
+## Dashboard [data](.Image/image1.png)
 
  
 
