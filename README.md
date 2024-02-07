@@ -1,4 +1,4 @@
-## Project Title: COVID-19 Data Exploration in SQL Server
+## COVID-19 Data Exploration and Visualization in SQL Server and Tableau
 
 ## Project Description:
 
@@ -10,5 +10,5 @@ Our World in Data: https://ourworldindata.org/coronavirus
 
 ## Tables Used:
 
-CovidDeaths: Stores daily data on new cases, total cases, new deaths, and total deaths by location and date.
-CovidVaccinations: Stores daily data on new vaccinations by location and date.
+- CovidDeaths: Stores daily data on new cases, total cases, new deaths, and total deaths by location and date.
+- CovidVaccinations: Stores daily data on new vaccinations by location and date.
